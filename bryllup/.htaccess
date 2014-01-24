@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)\.html$ /bryllup/index.php?action=$1 [NC]
